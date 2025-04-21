@@ -1,0 +1,88 @@
+* {  
+    font-family: "Roboto Serif" ;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {background-color:rgb(176, 5, 5) }
+
+
+
+.dado {
+    Width:583px;
+    Height:374px;
+    margin: 156px 0px 0px 728px;
+}
+
+.texto {
+    font-weight: 400;
+    font-size:32px;
+    color: rgb(255, 255, 255);
+    margin: 62px 0px 0px 870px ;
+
+}
+
+
+.inputs {
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.input01 {
+    background-color: rgb(107, 100, 100);
+    width: 250px;
+    height: 60px;
+    margin-left: 750px;
+    border-radius: 14px;
+    border:none;
+    font-weight: 500px;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 1);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+
+.input02 {
+    
+    background-color: rgb(107, 100, 100);
+    width: 250px;
+    height: 60px;
+    margin-left: 30px;
+    border-radius: 14px;
+    border:none;
+    font-weight: 500px;
+    font-size: 40px;
+    color:rgba(255, 255, 255, 1);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+
+.button
+
+{
+    Width:342px;
+    Height:72px;
+    margin:50px 0px 0px 849px;
+    border-radius: 10px;
+    background-color: rgb(27, 26, 26);
+    font-size:36px ;
+    font-weight: 700px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+
+
+     
+}
+button:hover {
+    opacity: 0.8;
+
+}
+
+button:active {
+    opacity: 0.7;
+}
