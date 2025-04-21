@@ -10,16 +10,16 @@ html {background-color:rgb(176, 5, 5) }
 
 
 .dado {
-    Width:583px;
-    Height:374px;
-    margin: 156px 0px 0px 728px;
+    Width:371px;
+    Height:247px;
+    margin: 102px 0px 0px 585px;
 }
 
 .texto {
     font-weight: 400;
     font-size:32px;
     color: rgb(255, 255, 255);
-    margin: 62px 0px 0px 870px ;
+    margin: 43px 0px 0px 619px ;
 
 }
 
@@ -35,7 +35,7 @@ html {background-color:rgb(176, 5, 5) }
     background-color: rgb(107, 100, 100);
     width: 250px;
     height: 60px;
-    margin-left: 750px;
+    margin-left: 503px;
     border-radius: 14px;
     border:none;
     font-weight: 500px;
@@ -65,7 +65,7 @@ html {background-color:rgb(176, 5, 5) }
 {
     Width:342px;
     Height:72px;
-    margin:50px 0px 0px 849px;
+    margin:50px 0px 0px 609px;
     border-radius: 10px;
     background-color: rgb(27, 26, 26);
     font-size:36px ;
