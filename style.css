@@ -1,25 +1,27 @@
-* {  
-    font-family: "Roboto Serif" ;
+* {
+    font-family: "Roboto Serif";
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-html {background-color:rgb(176, 5, 5) }
+html {
+    background-color: rgb(176, 5, 5)
+}
 
 
 
 .dado {
-    Width:371px;
-    Height:247px;
+    Width: 371px;
+    Height: 247px;
     margin: 102px 0px 0px 585px;
 }
 
 .texto {
     font-weight: 400;
-    font-size:32px;
+    font-size: 32px;
     color: rgb(255, 255, 255);
-    margin: 43px 0px 0px 619px ;
+    margin: 43px 0px 0px 619px;
 
 }
 
@@ -27,7 +29,7 @@ html {background-color:rgb(176, 5, 5) }
 .inputs {
     display: flex;
     align-items: center;
-    
+
 }
 
 
@@ -37,7 +39,7 @@ html {background-color:rgb(176, 5, 5) }
     height: 60px;
     margin-left: 503px;
     border-radius: 14px;
-    border:none;
+    border: none;
     font-weight: 500px;
     font-size: 40px;
     color: rgba(255, 255, 255, 1);
@@ -46,38 +48,37 @@ html {background-color:rgb(176, 5, 5) }
 }
 
 .input02 {
-    
+
     background-color: rgb(107, 100, 100);
     width: 250px;
     height: 60px;
     margin-left: 30px;
     border-radius: 14px;
-    border:none;
+    border: none;
     font-weight: 500px;
     font-size: 40px;
-    color:rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 
-.button
-
-{
-    Width:342px;
-    Height:72px;
-    margin:50px 0px 0px 609px;
+.button {
+    Width: 342px;
+    Height: 72px;
+    margin: 50px 0px 0px 609px;
     border-radius: 10px;
     background-color: rgb(27, 26, 26);
-    font-size:36px ;
+    font-size: 36px;
     font-weight: 700px;
     color: rgba(255, 255, 255, 1);
     cursor: pointer;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    
 
 
-     
+
+
 }
+
 button:hover {
     opacity: 0.8;
 
@@ -87,52 +88,56 @@ button:active {
     opacity: 0.7;
 }
 
-    @media screen and (max-width : 1049px) {
-        
-        .dado {
-            Width: 234%;
-            Height: 809px;
-            margin: 90px 0px 0px 95px;
-        }
+@media screen and (max-width : 1049px) {
 
-        .texto {
-            font-weight: 400;
-            width: 247%;
-            font-size: 109px;
-            color: rgb(255, 255, 255);
-            margin: 43px 0px 0px 82px;
-        }
-        
-        .inputs {
-             
-                width: 248%;
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                gap: 40px;
-        }
+    .dado {
+        Width: 234%;
+        Height: 809px;
+        margin: 90px 0px 0px 95px;
+    }
 
-        .input01  {
-            
+    .texto {
+        font-weight: 400;
+        width: 247%;
+        font-size: 109px;
+        color: rgb(255, 255, 255);
+        margin: 95px 0px 0px 82px;
+    }
+
+    .inputs {
+
+        width: 248%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 40px;
+        margin: 92px 0px 92px 0px;
+    }
+
+    .input01 {
+
         width: 80%;
         height: 96px;
         font-size: 83px;
-        margin: 0px 0px 0px 58px;
-        
+        margin: 0px 0px 39px 58px;
 
-        }
 
-        .input02 {
-           
+    }
+
+    .input02 {
+
         width: 80%;
         height: 96px;
         font-size: 83px;
         margin: 0px 0px 0px 58px
-
-        }
-
-        .button {
-
-            
-        }
     }
+
+    .button {
+
+        width: 587px;
+        height: 222px;
+        font-size: 115px;
+        margin: 16px 0px 0px 292px;
+
+    }
+}
