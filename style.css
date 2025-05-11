@@ -89,4 +89,31 @@ button:active {
 
     @media screen and (max-width : 1049px) {
         
+        .dado {
+            Width: 851px;
+            Height: 741px;
+            margin: 90px 0px 0px 95px;
+        }
+
+        .texto {
+            font-weight: 400;
+            width: 247%;
+            font-size: 96px;
+            color: rgb(255, 255, 255);
+            margin: 43px 0px 0px 82px;
+        }
+        
+        .inputs {
+            justify-content: center;
+        }
+
+        .input01  {
+            margin: 0px 0px 0px 0px ;
+
+        }
+
+        .input02 {
+           margin:  0px 0px 0px 0px ;
+
+        }
     }
