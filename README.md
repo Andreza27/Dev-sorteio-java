@@ -2,9 +2,7 @@
 <br>
 <h2> Projeto Responsivo</h2>
 <br>
-<p> Este projeto foi um verdadeiro desáfio, por ser meu Primeiro Projeto trabalhando com Java Scripit que aprendi pelo <a href="https://rodolfomori.com.br/devclub">Dev Club<a/>,
-estou muito feliz  com o meu crescimento no curso e vou continuar crescendo cada vez mais,adicionei também responsividade, 
-foi utilizado as tecnologias:</p>
+<p>  Este projeto representou um desafio significativo por ser o primeiro desenvolvido com JavaScript, linguagem que estou aprendendo por meio do <a href="https://rodolfomori.com.br/devclub">Dev Club<a/> . Durante o desenvolvimento, foquei em aplicar conceitos fundamentais da linguagem, além de implementar uma estrutura responsiva para garantir uma boa experiência em diferentes dispositivos. As principais tecnologias utilizadas foram:   </p>
 <h3>
 - HTML
   <br>
