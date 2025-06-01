@@ -12,6 +12,6 @@ function geradordenumero(){
 
     alert(resultado) }
     else {
-        alert("O valor minimo tem que ser MENOS que o valor maximo")
+        alert("O valor minimo tem que ser MENOR que o valor maximo")
     }
 }
